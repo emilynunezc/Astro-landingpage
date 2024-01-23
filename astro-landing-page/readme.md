@@ -6,9 +6,9 @@ figma link of the design: https://www.figma.com/proto/WwZAYZcfNMwmxChYrquF9g/lan
 
 # To Run Proyect 
 
-<il>Download astro-landing-page file</il>
-<il>Right click on index.html</il>
-<il>Open in chrome</il>
+1. Download astro-landing-page file
+1. Right click on index.html
+1. Open in chrome
 
 <img src="./images/screen.png" width="500" style="display:block;margin: 40px auto" />
 
